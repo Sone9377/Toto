@@ -1,4 +1,4 @@
 #!/bin/bash
 
 echo "Hello World !!!"
-echo "Bonjour à tous!!!!"
+echo "Bonjour à tous!!!LOL!"
